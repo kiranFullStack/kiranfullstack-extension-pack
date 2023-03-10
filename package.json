@@ -3,6 +3,8 @@
   "displayName": "kiranFullStack Extension Pack",
   "description": "A list of all the best extensions used by kiranFullStack",
   "version": "0.0.1",
+  "publisher": "kiranfullstack",
+  "icon": "icon.jpeg",
   "engines": {
     "vscode": "^1.76.0"
   },
